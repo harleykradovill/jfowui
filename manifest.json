@@ -1,14 +1,14 @@
 [
     {
         "category": "Administration",
-        "guid": "e7ad45ee-7af4-476c-b7ca-4b147ad7b6c2",
+        "guid": "28a6125c-cb57-4e8b-b031-421ac55cfa91",
         "name": "Stop Sessions",
         "description": "Stops paused sessions after x amount of seconds.",
         "owner": "harleykradovill",
         "overview": "Stops paused sessions.",
         "versions": [
             {
-                "checksum": "457C7DAEE9F27123A252F930157560FA",
+                "checksum": "0D06E0D924D17C0CCF024E9162E6BC8C",
                 "changelog": "init",
                 "targetAbi": "10.10.0.0",
                 "sourceUrl": "https://github.com/harleykradovill/jfowui/releases/download/ss1.0.0.0/Release.zip",
