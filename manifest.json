@@ -1,0 +1,20 @@
+[
+    {
+        "category": "Administration",
+        "guid": "e7ad45ee-7af4-476c-b7ca-4b147ad7b6c2",
+        "name": "Stop Sessions",
+        "description": "Stops paused sessions after x amount of seconds.",
+        "owner": "harleykradovill",
+        "overview": "Stops paused sessions.",
+        "versions": [
+            {
+                "checksum": "034E3FDF33BF34BD63C109C84294C963",
+                "changelog": "init",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.jellyfin.org/releases/other/whats-this-plugin.zip.gif",
+                "timestamp": "2020-03-27 06:02:58",
+                "version": "1.0.3.0"
+            }
+        ]
+    }
+]
