@@ -11,7 +11,7 @@
                 "checksum": "034E3FDF33BF34BD63C109C84294C963",
                 "changelog": "init",
                 "targetAbi": "10.10.7.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/other/whats-this-plugin.zip.gif",
+                "sourceUrl": "https://github.com/harleykradovill/jfowui/releases/download/ss1.0.0.0/Release.zip",
                 "timestamp": "2020-03-27 06:02:58",
                 "version": "1.0.0.0"
             }
