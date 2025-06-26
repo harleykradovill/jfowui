@@ -5,6 +5,7 @@
         "name": "Stop Sessions",
         "description": "Stops paused sessions after x amount of seconds.",
         "owner": "harleykradovill",
+        "imageUrl": "https://github.com/harleykradovill/jf-stopsessions/blob/main/stopsessions.png?raw=true",
         "overview": "Stops paused sessions.",
         "versions": [
             {
