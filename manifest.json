@@ -8,12 +8,12 @@
         "overview": "Stops paused sessions.",
         "versions": [
             {
-                "checksum": "5969DFF99DFCBA2A50EEFFCE2AABD4AE",
+                "checksum": "9EA85CE31BD3A19A16F5FC33A43F8A08",
                 "changelog": "init",
                 "targetAbi": "10.10.0.0",
-                "sourceUrl": "https://github.com/harleykradovill/jfowui/releases/download/ss1.0.0.2/Release.zip",
+                "sourceUrl": "https://github.com/harleykradovill/jfowui/releases/download/ss1.0.0.3/Release.zip",
                 "timestamp": "2025-06-25 02:52:15",
-                "version": "1.0.0.2"
+                "version": "1.0.0.3"
             }
         ]
     }
