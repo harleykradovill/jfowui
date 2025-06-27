@@ -11,7 +11,7 @@ A plugin that forcefully terminates user sessions if they have been paused for a
 
 1. Open your **Jellyfin Dashboard**
 2. Navigate to **Catalog**
-3. Click the *Settings** button
-4. Click the **Add* button
+3. Click the **Settings** button
+4. Click the **Add** button
 5. Choose a name for the repository
 6. Use the following repository URL: `https://raw.githubusercontent.com/harleykradovill/jfowui/main/manifest.json`
