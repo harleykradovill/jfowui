@@ -3,7 +3,7 @@
         "category": "Administration",
         "guid": "28a6125c-cb57-4e8b-b031-421ac55cfa91",
         "name": "Stop Sessions",
-        "description": "Stops paused sessions after x amount of seconds.",
+        "description": "Stops paused sessions after a specified amount of time.",
         "owner": "harleykradovill",
         "imageUrl": "https://github.com/harleykradovill/jf-stopsessions/blob/main/stopsessions.png?raw=true",
         "overview": "Stops paused sessions.",
