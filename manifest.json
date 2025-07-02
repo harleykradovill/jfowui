@@ -9,7 +9,7 @@
         "overview": "Stops paused sessions.",
         "versions": [
             {
-                "checksum": "335C98C3E10A5F55AD07B7C716440CC4",
+                "checksum": "8E6FC4F99E5506EAD65B3F352B607D70",
                 "changelog": "init",
                 "targetAbi": "10.10.0.0",
                 "sourceUrl": "https://github.com/harleykradovill/jfowui/releases/download/ss1.1.0.0/Release.zip",
