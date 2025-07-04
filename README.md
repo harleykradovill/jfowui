@@ -1,11 +1,17 @@
 ## jfowui
 A collection of my plugins made for [Jellyfin](https://jellyfin.org).
 
-### StopSessions
-<img src="https://github.com/harleykradovill/jf-stopsessions/blob/main/stopsessions.png?raw=true" width="300" />
+### Stop Sessions
+<img src="https://github.com/harleykradovill/jfowui/main/stopsessions.png?raw=true" width="300" />
 A plugin that forcefully terminates user sessions if they have been paused for a specified amount of time (e.g. 3600 seconds).
 
-[StopSessions Repository](https://github.com/harleykradovill/jf-stopsessions)
+[Stop Sessions Repository](https://github.com/harleykradovill/jf-stopsessions)
+
+### Discord Notifications
+<img src="https://github.com/harleykradovill/jfowui/main/discordnotifications.png?raw=true" width="300">
+A plugin to send webhooks to a Discord server for notifications on your Jellyfin server.
+
+**Repository under development.**
 
 ### Installation
 
