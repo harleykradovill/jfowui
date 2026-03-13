@@ -9,12 +9,31 @@
         "overview": "Stops paused sessions.",
         "versions": [
             {
-                "checksum": "3AA084BE68553614C01364D135EA0A11",
+                "checksum": "7f2d08fa56575b3da07f0283739c80c2da4a0bdfd6bb8eaaa79a75e2e5fb1af1",
                 "changelog": "init",
                 "targetAbi": "10.10.0.0",
                 "sourceUrl": "https://github.com/harleykradovill/jf-stopsessions/releases/download/ss1.1.0.0/Release.zip",
                 "timestamp": "2025-06-25 02:52:15",
                 "version": "1.1.0.0"
+            }
+        ]
+    },
+    {
+        "category": "Administration",
+        "guid": "ba6a4ff6-a27f-46e7-94ab-effb7dc39158",
+        "name": "Provider Lens",
+        "description": "See which movies and TV shows in your libraries are available on other streaming services.",
+        "owner": "harleykradovill",
+        "imageUrl": "https://github.com/harleykradovill/jfowui/blob/main/banners/providerlens.png?raw=true",
+        "overview": "See stream providers for your media items.",
+        "versions": [
+            {
+                "checksum": "7b698e76ff04da7eb4cb5962585e0e72f857597f1109f06a232e6d0870f78422",
+                "changelog": "init",
+                "targetAbi": "10.9.0.0",
+                "sourceUrl": "https://github.com/harleykradovill/jf-providerlens/releases/download/pl1.0.0.0/Release.zip",
+                "timestamp": "2026-03-13 12:00:00",
+                "version": "1.0.0.0"
             }
         ]
     }
