@@ -9,11 +9,11 @@
         "overview": "Stops paused sessions.",
         "versions": [
             {
-                "checksum": "7f2d08fa56575b3da07f0283739c80c2da4a0bdfd6bb8eaaa79a75e2e5fb1af1",
+                "checksum": "3aa084be68553614c01364d135ea0a11",
                 "changelog": "init",
                 "targetAbi": "10.10.0.0",
                 "sourceUrl": "https://github.com/harleykradovill/jf-stopsessions/releases/download/ss1.1.0.0/Release.zip",
-                "timestamp": "2025-06-25 02:52:15",
+                "timestamp": "2025-06-25T02:52:15Z",
                 "version": "1.1.0.0"
             }
         ]
@@ -28,11 +28,11 @@
         "overview": "See stream providers for your media items.",
         "versions": [
             {
-                "checksum": "7b698e76ff04da7eb4cb5962585e0e72f857597f1109f06a232e6d0870f78422",
+                "checksum": "5504d0ec61a08f75ac34c1dc91479ea6",
                 "changelog": "init",
                 "targetAbi": "10.9.0.0",
                 "sourceUrl": "https://github.com/harleykradovill/jf-providerlens/releases/download/pl1.0.0.0/Release.zip",
-                "timestamp": "2026-03-13 12:00:00",
+                "timestamp": "2026-03-13T12:00:00Z",
                 "version": "1.0.0.0"
             }
         ]
