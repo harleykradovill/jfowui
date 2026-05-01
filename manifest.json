@@ -9,7 +9,7 @@
         "overview": "Stops paused sessions.",
         "versions": [
             {
-                "checksum": "de46490dcfed3ccf16f4ebb6caa3e1a5",
+                "checksum": "ab606ecb87dae580115ce3b1e5614600",
                 "changelog": "bug fixes",
                 "targetAbi": "10.10.0.0",
                 "sourceUrl": "https://github.com/harleykradovill/jf-stopsessions/releases/download/ss1.2.0.0/Release.zip",
