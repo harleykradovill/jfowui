@@ -1,33 +1,6 @@
 [
     {
         "category": "Administration",
-        "guid": "28a6125c-cb57-4e8b-b031-421ac55cfa91",
-        "name": "Stop Sessions",
-        "description": "Stops paused sessions after a specified amount of time.",
-        "owner": "harleykradovill",
-        "imageUrl": "https://github.com/harleykradovill/jfowui/blob/main/banners/stopsessions.png?raw=true",
-        "overview": "Stops paused sessions.",
-        "versions": [
-            {
-                "checksum": "ab606ecb87dae580115ce3b1e5614600",
-                "changelog": "bug fixes",
-                "targetAbi": "10.10.0.0",
-                "sourceUrl": "https://github.com/harleykradovill/jf-stopsessions/releases/download/ss1.2.0.0/Release.zip",
-                "timestamp": "2026-04-30T10:00:00Z",
-                "version": "1.2.0.0"
-            },
-            {
-                "checksum": "3aa084be68553614c01364d135ea0a11",
-                "changelog": "init",
-                "targetAbi": "10.10.0.0",
-                "sourceUrl": "https://github.com/harleykradovill/jf-stopsessions/releases/download/ss1.1.0.0/Release.zip",
-                "timestamp": "2025-06-25T02:52:15Z",
-                "version": "1.1.0.0"
-            }
-        ]
-    },
-    {
-        "category": "Administration",
         "guid": "ba6a4ff6-a27f-46e7-94ab-effb7dc39158",
         "name": "Provider Lens",
         "description": "See which movies and TV shows in your libraries are available on other streaming services.",
